@@ -5,6 +5,7 @@ This shows all the contributions made by `marsian83` to sugarlabs
 |   Activity Name         |           Comments                         |      Link to work                  |      Status        |
 |-------------------------|--------------------------------------------|------------------------------------|--------------------|
 |jamath-activity|<ul><li>new class Juego_button</li><li>Bugfix: sound repeating when hovering on buttons </li></ul>|[Link to work](https://github.com/sugarlabs/jamath-activity/pull/35)|Merged|
+|cardsort|<ul><li>Refactored code a little and centered the card grid</li></ul>|[Link to work](https://github.com/sugarlabs/cardsort/pull/17)|In Progress|
 |fractionbounce|<ul><li>made the ball draggable with mouse</li></ul>|[Link to work](https://github.com/sugarlabs/fractionbounce/pull/17)|In Progress|
 |dotsAndBoxes|<ul><li>Bug Fix : Updating colors makes the game state disappear</li></ul>|[Link to work](https://github.com/sugarlabs/dotsAndBoxes/pull/19)|Merged|
 |numberrush-activity|<ul><li> feature: show correct answer after game over</li><li>Updated Readme</li></ul>|[Link to work](https://github.com/sugarlabs/numberrush-activity/pull/9) <br/> [Link to work](https://github.com/sugarlabs/numberrush-activity/pull/10)|Merged|
