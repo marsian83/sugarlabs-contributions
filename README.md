@@ -1,6 +1,6 @@
 # Sugar Labs contributions
 
-This shows all the contributions made by `marsian83` to sugarlabs
+This shows all the contributions made by `marsian83` to Sugar labs
 
 |   Activity Name         |           Comments                         |      Link to work                  |      Status        |
 |-------------------------|--------------------------------------------|------------------------------------|--------------------|
